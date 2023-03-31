@@ -1,0 +1,68 @@
+
+
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.login{
+    float: right;
+
+}
+
+.Menu {
+    float: left;
+    background-color: black;
+     width:100%;
+}
+
+.contenidos{
+    overflow: hidden;
+}
+
+
+.contenidos li{
+    float: left;
+    font-size: 20px;
+   text-decoration: none; 
+   
+}
+.contenidos li a{
+    display: block;
+    padding: 20px;
+}
+.contenidos li:hover {
+  background:#9B3A9B;
+}
+
+h1, h2{
+    padding-left:50px ;
+}
+p{
+    padding-left: 50px;
+}
+
+img{
+    padding-left: 50px;
+   
+}
+
+
+#MenuContenidos{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    float: right;
+    border: solid 5px;
+    border-color: #9B3A9B;
+}
+
+footer{
+    background-color: black;
+}
+footer h2, i{
+    color: aliceblue;
+}
+i{
+    padding: 20px;
+}

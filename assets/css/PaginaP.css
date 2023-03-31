@@ -1,0 +1,44 @@
+
+body{
+    margin: 0%;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.login{
+    float: right;
+
+}
+
+nav {
+    float: left;
+    background-color: black;
+     width:100%;
+}
+
+nav ul{
+    overflow: hidden;
+}
+
+
+nav ul li{
+    float: left;
+    font-size: 20px;
+   text-decoration: none; 
+   
+}
+nav ul li a{
+    display: block;
+    padding: 20px;
+}
+footer{
+    background-color: black;
+}
+footer h2, i{
+    color: aliceblue;
+}
+i{
+    padding: 20px;
+}

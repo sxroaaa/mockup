@@ -1,0 +1,65 @@
+
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.login{
+    float: right;
+
+}
+
+.Menu {
+    float: left;
+    background-color: black;
+     width:100%;
+}
+
+.contenidos{
+    overflow: hidden;
+}
+
+
+.contenidos li{
+    float: left;
+    font-size: 20px;
+   text-decoration: none; 
+   
+}
+.contenidos li a{
+    display: block;
+    padding: 20px;
+}
+.contenidos li:hover {
+  background:#9B3A9B;
+}
+p{
+    text-align: left;
+}
+.imagen3{
+    width: 500px;
+    height: 500px;
+}
+
+aside {
+    background-color: #9B3A9B;
+    
+    margin-left: 70%;
+    padding: 1%;
+	
+}
+#MenuContenidos{
+    
+    border: solid 5px;
+    border-color: #9B3A9B;
+}
+
+footer{
+    background-color: black;
+}
+footer h2, i{
+    color: aliceblue;
+}
+i{
+    padding: 20px;
+}
